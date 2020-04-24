@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa4b5379-0cc9-4028-88e3-eb47ca3af73c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yza0PFDGhAh9qr7osrnxiXLnuw" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day20_ArraysContinue" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Loop">
+    <configuration name="Days" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day20_ArraysContinue.Days" />
+      <module name="Spring2020B17_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day20_ArraysContinue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StudyAtHome.Loop" />
+      <module name="Spring2020B17_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StudyAtHome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MonthsTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day20_ArraysContinue.MonthsTask" />
+      <module name="Spring2020B17_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day20_ArraysContinue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Students" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day20_ArraysContinue.Students" />
+      <module name="Spring2020B17_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day20_ArraysContinue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="forloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForLoopMuradilDay20.forloop" />
+      <module name="Spring2020B17_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ForLoopMuradilDay20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Loop" />
+        <item itemvalue="Application.Days" />
+        <item itemvalue="Application.MonthsTask" />
+        <item itemvalue="Application.forloop" />
+        <item itemvalue="Application.Students" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa4b5379-0cc9-4028-88e3-eb47ca3af73c" name="Default Changelist" comment="" />
+      <created>1583947652185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583947652185</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="507" y="133" key="#Unnamed" timestamp="1585943329780">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="507" y="133" key="#Unnamed/0.23.1792.1030@0.23.1792.1030" timestamp="1585943329780" />
+    <state x="557" y="163" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1585317858852">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="557" y="163" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1792.1030@0.23.1792.1030" timestamp="1585317858852" />
+    <state x="616" y="411" width="559" height="265" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585690429464">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="616" y="411" width="559" height="265" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1792.1030@0.23.1792.1030" timestamp="1585690429464" />
+    <state x="571" y="235" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1586127973565">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="571" y="235" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.23.1792.1030@0.23.1792.1030" timestamp="1586127973565" />
+    <state width="1792" height="320" key="GridCell.Tab.0.bottom" timestamp="1586483287936">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state width="1740" height="182" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1585664176165" />
+    <state width="1792" height="320" key="GridCell.Tab.0.bottom/0.23.1792.1027@0.23.1792.1027" timestamp="1586482684942" />
+    <state width="1792" height="320" key="GridCell.Tab.0.bottom/0.23.1792.1030@0.23.1792.1030" timestamp="1586483287936" />
+    <state width="1792" height="344" key="GridCell.Tab.0.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1586449820114" />
+    <state width="1740" height="273" key="GridCell.Tab.0.bottom/0.23.1792.1033@0.23.1792.1033" timestamp="1584553156584" />
+    <state width="1740" height="273" key="GridCell.Tab.0.bottom/0.23.1792.1034@0.23.1792.1034" timestamp="1584552844820" />
+    <state width="1740" height="293" key="GridCell.Tab.0.bottom/0.23.1792.1036@0.23.1792.1036" timestamp="1584232376161" />
+    <state width="1038" height="258" key="GridCell.Tab.0.bottom/0.23.1792.1037@0.23.1792.1037" timestamp="1584136855814" />
+    <state width="412" height="275" key="GridCell.Tab.0.bottom/0.23.1792.1041@0.23.1792.1041" timestamp="1584129836750" />
+    <state width="416" height="275" key="GridCell.Tab.0.bottom/0.23.1792.1043@0.23.1792.1043" timestamp="1584126197032" />
+    <state width="1792" height="320" key="GridCell.Tab.0.center" timestamp="1586483287936">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state width="1740" height="182" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1585664176164" />
+    <state width="1792" height="320" key="GridCell.Tab.0.center/0.23.1792.1027@0.23.1792.1027" timestamp="1586482684941" />
+    <state width="1792" height="320" key="GridCell.Tab.0.center/0.23.1792.1030@0.23.1792.1030" timestamp="1586483287936" />
+    <state width="1792" height="344" key="GridCell.Tab.0.center/0.23.1792.1031@0.23.1792.1031" timestamp="1586449820110" />
+    <state width="1740" height="273" key="GridCell.Tab.0.center/0.23.1792.1033@0.23.1792.1033" timestamp="1584553156583" />
+    <state width="1740" height="273" key="GridCell.Tab.0.center/0.23.1792.1034@0.23.1792.1034" timestamp="1584552844819" />
+    <state width="1740" height="293" key="GridCell.Tab.0.center/0.23.1792.1036@0.23.1792.1036" timestamp="1584232376160" />
+    <state width="1038" height="258" key="GridCell.Tab.0.center/0.23.1792.1037@0.23.1792.1037" timestamp="1584136855814" />
+    <state width="412" height="275" key="GridCell.Tab.0.center/0.23.1792.1041@0.23.1792.1041" timestamp="1584129836749" />
+    <state width="416" height="275" key="GridCell.Tab.0.center/0.23.1792.1043@0.23.1792.1043" timestamp="1584126197032" />
+    <state width="1792" height="320" key="GridCell.Tab.0.left" timestamp="1586483287935">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state width="1740" height="182" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1585664176164" />
+    <state width="1792" height="320" key="GridCell.Tab.0.left/0.23.1792.1027@0.23.1792.1027" timestamp="1586482684940" />
+    <state width="1792" height="320" key="GridCell.Tab.0.left/0.23.1792.1030@0.23.1792.1030" timestamp="1586483287935" />
+    <state width="1792" height="344" key="GridCell.Tab.0.left/0.23.1792.1031@0.23.1792.1031" timestamp="1586449820110" />
+    <state width="1740" height="273" key="GridCell.Tab.0.left/0.23.1792.1033@0.23.1792.1033" timestamp="1584553156582" />
+    <state width="1740" height="273" key="GridCell.Tab.0.left/0.23.1792.1034@0.23.1792.1034" timestamp="1584552844819" />
+    <state width="1740" height="293" key="GridCell.Tab.0.left/0.23.1792.1036@0.23.1792.1036" timestamp="1584232376160" />
+    <state width="1038" height="258" key="GridCell.Tab.0.left/0.23.1792.1037@0.23.1792.1037" timestamp="1584136855813" />
+    <state width="412" height="275" key="GridCell.Tab.0.left/0.23.1792.1041@0.23.1792.1041" timestamp="1584129836748" />
+    <state width="416" height="275" key="GridCell.Tab.0.left/0.23.1792.1043@0.23.1792.1043" timestamp="1584126197031" />
+    <state width="1792" height="320" key="GridCell.Tab.0.right" timestamp="1586483287936">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state width="1740" height="182" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1585664176165" />
+    <state width="1792" height="320" key="GridCell.Tab.0.right/0.23.1792.1027@0.23.1792.1027" timestamp="1586482684941" />
+    <state width="1792" height="320" key="GridCell.Tab.0.right/0.23.1792.1030@0.23.1792.1030" timestamp="1586483287936" />
+    <state width="1792" height="344" key="GridCell.Tab.0.right/0.23.1792.1031@0.23.1792.1031" timestamp="1586449820113" />
+    <state width="1740" height="273" key="GridCell.Tab.0.right/0.23.1792.1033@0.23.1792.1033" timestamp="1584553156583" />
+    <state width="1740" height="273" key="GridCell.Tab.0.right/0.23.1792.1034@0.23.1792.1034" timestamp="1584552844820" />
+    <state width="1740" height="293" key="GridCell.Tab.0.right/0.23.1792.1036@0.23.1792.1036" timestamp="1584232376161" />
+    <state width="1038" height="258" key="GridCell.Tab.0.right/0.23.1792.1037@0.23.1792.1037" timestamp="1584136855814" />
+    <state width="412" height="275" key="GridCell.Tab.0.right/0.23.1792.1041@0.23.1792.1041" timestamp="1584129836749" />
+    <state width="416" height="275" key="GridCell.Tab.0.right/0.23.1792.1043@0.23.1792.1043" timestamp="1584126197032" />
+    <state width="1792" height="339" key="GridCell.Tab.1.bottom" timestamp="1586483287484">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state width="1792" height="339" key="GridCell.Tab.1.bottom/0.23.1792.1030@0.23.1792.1030" timestamp="1586483287484" />
+    <state width="1740" height="331" key="GridCell.Tab.1.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1584403747212" />
+    <state width="1740" height="331" key="GridCell.Tab.1.bottom/0.23.1792.1034@0.23.1792.1034" timestamp="1584552756663" />
+    <state width="1740" height="320" key="GridCell.Tab.1.bottom/0.23.1792.1036@0.23.1792.1036" timestamp="1583953098175" />
+    <state width="1792" height="339" key="GridCell.Tab.1.center" timestamp="1586483287484">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state width="1792" height="339" key="GridCell.Tab.1.center/0.23.1792.1030@0.23.1792.1030" timestamp="1586483287484" />
+    <state width="1740" height="331" key="GridCell.Tab.1.center/0.23.1792.1031@0.23.1792.1031" timestamp="1584403747212" />
+    <state width="1740" height="331" key="GridCell.Tab.1.center/0.23.1792.1034@0.23.1792.1034" timestamp="1584552756663" />
+    <state width="1740" height="320" key="GridCell.Tab.1.center/0.23.1792.1036@0.23.1792.1036" timestamp="1583953098174" />
+    <state width="1792" height="339" key="GridCell.Tab.1.left" timestamp="1586483287484">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state width="1792" height="339" key="GridCell.Tab.1.left/0.23.1792.1030@0.23.1792.1030" timestamp="1586483287484" />
+    <state width="1740" height="331" key="GridCell.Tab.1.left/0.23.1792.1031@0.23.1792.1031" timestamp="1584403747211" />
+    <state width="1740" height="331" key="GridCell.Tab.1.left/0.23.1792.1034@0.23.1792.1034" timestamp="1584552756662" />
+    <state width="1740" height="320" key="GridCell.Tab.1.left/0.23.1792.1036@0.23.1792.1036" timestamp="1583953098174" />
+    <state width="1792" height="339" key="GridCell.Tab.1.right" timestamp="1586483287484">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state width="1792" height="339" key="GridCell.Tab.1.right/0.23.1792.1030@0.23.1792.1030" timestamp="1586483287484" />
+    <state width="1740" height="331" key="GridCell.Tab.1.right/0.23.1792.1031@0.23.1792.1031" timestamp="1584403747212" />
+    <state width="1740" height="331" key="GridCell.Tab.1.right/0.23.1792.1034@0.23.1792.1034" timestamp="1584552756663" />
+    <state width="1740" height="320" key="GridCell.Tab.1.right/0.23.1792.1036@0.23.1792.1036" timestamp="1583953098174" />
+    <state x="256" y="23" width="1280" height="1030" key="SettingsEditor" timestamp="1585341012023">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="256" y="23" width="1280" height="1030" key="SettingsEditor/0.23.1792.1030@0.23.1792.1030" timestamp="1585341012023" />
+    <state x="641" y="164" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584410466245">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="641" y="164" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1792.1030@0.23.1792.1030" timestamp="1584410466245" />
+    <state x="188" y="222" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1585934685587">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="188" y="222" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1792.1030@0.23.1792.1030" timestamp="1585934685587" />
+    <state x="571" y="246" key="extract.method.dialog" timestamp="1584669524939">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="571" y="246" key="extract.method.dialog/0.23.1792.1030@0.23.1792.1030" timestamp="1584669524939" />
+    <state x="1290" y="25" width="838" height="1025" key="search.everywhere.popup" timestamp="1586479990715">
+      <screen x="0" y="23" width="1792" height="1027" />
+    </state>
+    <state x="1290" y="25" width="838" height="1025" key="search.everywhere.popup/0.23.1792.1027@0.23.1792.1027" timestamp="1586479990715" />
+    <state x="1290" y="25" width="838" height="1027" key="search.everywhere.popup/0.23.1792.1030@0.23.1792.1030" timestamp="1586450098353" />
+    <state x="1290" y="25" width="838" height="1028" key="search.everywhere.popup/0.23.1792.1031@0.23.1792.1031" timestamp="1584546494969" />
+    <state x="1290" y="25" key="search.everywhere.popup/0.23.1792.1034@0.23.1792.1034" timestamp="1584024142938" />
+    <state x="1290" y="25" width="838" height="1032" key="search.everywhere.popup/0.23.1792.1036@0.23.1792.1036" timestamp="1584063979009" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/OfficeHours/Practice_03_11_2020/LitersToGallons.java</url>
+          <line>3</line>
+          <properties class="OfficeHours.Practice_03_11_2020.LitersToGallons" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/OfficeHours/Practice_03_11_2020/LiraToUSD.java</url>
+          <line>3</line>
+          <properties class="OfficeHours.Practice_03_11_2020.LiraToUSD" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/day03_VariablesContinue/SalaryCalculator.java</url>
+          <line>5</line>
+          <properties class="day03_VariablesContinue.SalaryCalculator">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/OfficeHours/Practice_03_18_2020/ShortHandOperators_Practice.java</url>
+          <line>4</line>
+          <properties class="OfficeHours.Practice_03_18_2020.ShortHandOperators_Practice" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
