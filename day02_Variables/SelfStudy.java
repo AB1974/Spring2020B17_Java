@@ -4,8 +4,8 @@ public class SelfStudy {
     public static void main(String[] args) {
 
 
-        int a = 25;
-        int b = 20;
+        int a = 10;
+        int b = 15;
         a = b;
         b  = 10;
         System.out.println(a);

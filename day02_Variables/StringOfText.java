@@ -48,7 +48,7 @@ public class StringOfText {
 
         System.out.println("I will learn "+"\""+t+"\""+" and "+"\""+b+"\""+ " at CybertekSchool.");
 
-        System.out.println("Verilen " +t +" " +b + "'den kucuktur.");
+        System.out.println("Verilen " +b +" " +t + "'den kucuktur.");
 
 
         Scanner scan = new Scanner(System.in);

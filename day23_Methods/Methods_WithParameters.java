@@ -14,7 +14,7 @@ public class Methods_WithParameters {
     }
 
     public static void EligibleToBuyAlcohol(int age) {//parameter variable//parameters can be any data type
-                                                         //it can be any primitives and any objects
+         //int age                                                //it can be any primitives and any objects
         if (age >= 21) {
 
             System.out.println("Eligible to buy alcohol");
