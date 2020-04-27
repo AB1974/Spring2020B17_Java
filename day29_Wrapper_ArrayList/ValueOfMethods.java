@@ -96,5 +96,8 @@ public class ValueOfMethods {
         Boolean[] bool2=new Boolean[3];//wrapper class
         System.out.println(Arrays.toString(bool2));
 
+
+
+
     }
 }

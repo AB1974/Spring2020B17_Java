@@ -96,6 +96,18 @@ public class Library {
         }
         return minimum;
     }
+    public static int max(ArrayList<Integer> list) {//Integer Array List Method
+        int maximum = Integer.MIN_VALUE;//just an assumption
+        for (int i = 0; i < list.size(); i++) {
+
+            if (list.get(i) > maximum) {
+                maximum = list.get(i);
+
+
+            }
+        }
+        return maximum;
+    }
 
 
 }
