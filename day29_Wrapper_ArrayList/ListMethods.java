@@ -14,6 +14,9 @@ public class ListMethods {
         scores.add(20);//Autoboxing size 2;
         scores.add(30);//Autoboxing size 3;
 
+        scores.add(1,15);//index 1 'e (15) ekliyorum!//add(index,object)
+        scores.add(3,25);//index 2 'ye (25) ekliyorum!//add(index,object)
+
         System.out.println(scores);
 
         System.out.println("=======GET METHOD=====");
