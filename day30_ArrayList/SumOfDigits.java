@@ -21,7 +21,7 @@ public class SumOfDigits {
 
         System.out.println(Arrays.toString(arr));
 
-        int sum = 0;    // will conatain sum of all digits
+        int sum = 0;    // will contain sum of all digits
 
         for(char each  : arr ){ // '0'
 
