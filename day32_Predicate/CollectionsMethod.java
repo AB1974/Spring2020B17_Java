@@ -24,7 +24,7 @@ public class CollectionsMethod {
                    output: 2
          */
 
-        System.out.println("=================================");
+        System.out.println("========Collections.max()=========================");
         ArrayList<Integer> numbers = new ArrayList<>(Arrays.asList(1, 1, 2, 3, 4, 4));
         // second max: 3
 
@@ -39,7 +39,8 @@ public class CollectionsMethod {
 
         System.out.println(secondMax);
 
-        System.out.println("========================================");
+        System.out.println("===========Collections.min()=============================");
+
         ArrayList<Integer> list2 = new ArrayList<>(Arrays.asList(1, 1, 2, 3, 4, 5, 6, 7, 8));
         Integer minNum = Collections.min(list2); //1
 
@@ -48,5 +49,35 @@ public class CollectionsMethod {
 
         int secondMin = Collections.min(list2);
         System.out.println(secondMin);
+        System.out.println("=============Collections.swap()===========================");
+
+        ArrayList<Integer> list3 = new ArrayList<>(Arrays.asList(1, 2, 3, 4, 5));
+        //swap//                                                  0           4
+
+        System.out.println(list3);//12345
+        Collections.swap(list3, 0, 4);//swawps the elements at the given indexes from LEFT==>RIGHT
+
+        System.out.println(list3);//5,2,3,4,1
+        System.out.println("=============Collections.replaceAll()===========================");
+
+        ArrayList<Integer> list4 = new ArrayList<>(Arrays.asList(1, 1, 1, 2, 3, 4, 5));
+        System.out.println(list4);//1,1,1,2,3,4,5
+
+        Collections.replaceAll(list4, 1, 10);
+        System.out.println(list4);//10,10,10,2,3,4,5
+
+
+        ArrayList<String> names = new ArrayList<>(Arrays.asList("Omer", "Omer", "Mary", "Sha", "Fatih", "Omer"));
+        //Omer to Irina
+
+        /*
+        names.set(0, "Irina");
+        names.set(1, "Irina");
+        names.set(5, "Irina");
+        System.out.println(names);
+       */
+
+        Collections.replaceAll(names,"Omer","Irina");
+        System.out.println(names);
     }
 }
