@@ -17,7 +17,8 @@ public class InterviewRemoveDuplicate {
              */
 
             if(result.contains( ""+str.charAt(i) )){//i is index number
-                // if the string result does not contains str.charAt(i), then we concate it to the result, if it does we will not concate it to the result
+                // if the string result does not contains str.charAt(i), then we concat it to the result,
+                // if it does we will not concat it to the result
                 continue;
             }
 
