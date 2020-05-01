@@ -3,6 +3,7 @@ package day00_StudyAtHome;
 import day30_ArrayList.ArraysList_Methods;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 
 public class ArrayListQuiz {
     public static void main(String[] args) {
@@ -56,6 +57,12 @@ public class ArrayListQuiz {
         //public Test(int a){
         // System.out.println("Toyota");
         System.out.println("=================");
+
+
+        ArrayList<Integer>list5=new ArrayList<>(Arrays.asList(1,2,3,4,5));
+        list.set(0,list.get(4));
+        list.set(4,list.get(0));
+        System.out.println(list);
 
 
     }
