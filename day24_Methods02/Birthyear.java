@@ -25,6 +25,7 @@ public class Birthyear {
 
     public static void main(String[] args) {
 
+        Age(1955);
 
         // Age( 2000 );
 

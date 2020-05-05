@@ -48,7 +48,7 @@ public class Lambda_Expressions {
 
         System.out.println(nameList);
 
-        System.out.println("=============================================");
+        System.out.println("===================Character==========================");
         // c >= 48 && c <= 57;
         Predicate<Character> digits = c -> Character.isDigit(c);
 
@@ -61,12 +61,26 @@ public class Lambda_Expressions {
 
 
         System.out.println("=================================");
+
         Predicate<Integer> greaterThan5 = p -> p > 5;
         ArrayList<Integer> nums = new ArrayList<>(Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9));
         // nums.removeIf( p -> p > 5);/short cut
         nums.removeIf(greaterThan5);
 
         System.out.println(nums);
+
+        System.out.println("==========================");
+
+        //  write a program that can remove all special characters
+        //write a program that can remove all the numbers can be divisible by 3 or 5 in array list
+
+
+
+
+
+
+
+
 
     }
 }

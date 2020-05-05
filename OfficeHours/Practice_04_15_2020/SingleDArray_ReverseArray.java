@@ -8,9 +8,7 @@ public class SingleDArray_ReverseArray {
 
         int a = 100;
         int[] arr = {100, 200, 300};
-        //            0    1     2
 
-        System.out.println( arr[1] ); // 200
 
         for(int i = 0; i < 3; i++ ){  // i: index num of elemnts
             //  System.out.println(i);
