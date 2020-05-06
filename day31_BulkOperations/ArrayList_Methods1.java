@@ -5,11 +5,8 @@ import java.util.*;
 public class ArrayList_Methods1 {
 
     public static void main(String[] args) {
-        ArrayList<String> list1 = new ArrayList<>();
-        list1.add("A");
-        list1.add("B");
-        list1.add("C");
-        list1.add("D");
+        ArrayList<String> list1 = new ArrayList<>(Arrays.asList("A","B","C","D"));
+        System.out.println(list1);
 
         boolean r1 = list1.contains("C");
         System.out.println(r1);
