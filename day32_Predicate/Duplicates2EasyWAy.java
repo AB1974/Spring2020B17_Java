@@ -41,7 +41,7 @@ public class Duplicates2EasyWAy {
 
         System.out.println("==============FOR LOOP ILE=============");
 
-        for (int i=0;i<list.size();i++) {
+        for (int i = 0; i < list.size(); i++) {
 
             int count = Collections.frequency(list, list.get(i));
             if (count > 1 && !result.contains(list.get(i))) {

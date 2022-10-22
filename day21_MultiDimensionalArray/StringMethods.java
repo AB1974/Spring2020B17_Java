@@ -16,7 +16,7 @@ public class StringMethods {
         System.out.println("==========SPLIT METHOD======");
         String str ="I like Java";
 
-        String []arr=str.split(" ");
+        String []arr=str.split("");
         System.out.println(Arrays.toString(arr));
 
         System.out.println("example=====");

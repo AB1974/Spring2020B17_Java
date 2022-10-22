@@ -1,4 +1,5 @@
 package day13_StringClass;
+
 //import java.lang.String;//not necessary all the class in "java.lang"package important automaticially
 public class StringLiterals {
 
@@ -34,9 +35,13 @@ public class StringLiterals {
 
         //
         System.out.println("========String Manipulations=========");
+        String one = "Cybertek1";
+        String two = "Cybertek";
+        String three = "Cybertek";
+        String four = "Cybertek";
+        String five = "Cybertek";
 
-
-
+        System.out.println(one+two+three+four+five);
 
     }
 }

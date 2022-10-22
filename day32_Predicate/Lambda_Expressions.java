@@ -64,7 +64,7 @@ public class Lambda_Expressions {
 
         Predicate<Integer> greaterThan5 = p -> p > 5;
         ArrayList<Integer> nums = new ArrayList<>(Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9));
-        // nums.removeIf( p -> p > 5);/short cut
+        nums.removeIf( p -> p > 5);//short cut
         nums.removeIf(greaterThan5);
 
         System.out.println(nums);

@@ -1,8 +1,6 @@
 package day32_Predicate;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
+import java.util.*;
 
 public class Duplicates {
 
@@ -26,17 +24,27 @@ public class Duplicates {
         for (int i = 0; i < list.size(); i++) {
             int count = 0;
             for (String each : list) {
-                if (each.equals( list.get(i) )) {
+                if (each.equals(list.get(i))) {
                     count++;
                 }
             }
-            if (count > 1 && !duplicates.contains( list.get(i) )) {//if we want to character only once to be printed
+            if (count > 1 && !duplicates.contains(list.get(i))) {//if we want to character only once to be printed
 
-                duplicates.add( list.get(i) );//we store duplicates
+                duplicates.add(list.get(i));//we store duplicates
 
             }
         }
         System.out.println(duplicates);
+
+
+
+
+
+
+
+
+
+
 
 
     }

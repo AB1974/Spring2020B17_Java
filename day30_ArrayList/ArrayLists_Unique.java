@@ -2,7 +2,7 @@ package day30_ArrayList;
 
 import java.util.ArrayList;
 
-public class ArrayLists_Unique {
+public class  ArrayLists_Unique {
     /*
      3.  write a program that can find the unique elements from an ArrayList of integers
      and stores into another list called uniques

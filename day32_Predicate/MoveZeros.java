@@ -35,6 +35,7 @@ public class MoveZeros {
             //list.add(0,0);if you want to add at the beginning
         }
         System.out.println(list);
+        System.out.println(Arrays.toString(list.toArray()));
 
     }
 }

@@ -55,7 +55,7 @@ public class CollectionsMethod {
         //swap//                                                  0           4
 
         System.out.println(list3);//12345
-        Collections.swap(list3, 0, 4);//swawps the elements at the given indexes from LEFT==>RIGHT
+        Collections.swap(list3, 0, 4);//swaps the elements at the given indexes from LEFT==>RIGHT
 
         System.out.println(list3);//5,2,3,4,1
         System.out.println("=============Collections.replaceAll()===========================");

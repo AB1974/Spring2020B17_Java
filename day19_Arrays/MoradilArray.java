@@ -16,7 +16,7 @@ public class MoradilArray {
         System.out.println(Arrays.toString(number));
         System.out.println((number[0]));
 
-        int []numbers={2,4,6,};
+        int []numbers={2,4,6};
         System.out.println(Arrays.toString(numbers));
         System.out.println(numbers.length);
 

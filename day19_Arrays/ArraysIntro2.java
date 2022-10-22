@@ -18,8 +18,6 @@ public class ArraysIntro2 {
 
         String s1 = family[3];
 
-        System.out.println(s1);
-        System.out.println("========================================");
 
         for (int i = 0; i <= 3; i++) {
 

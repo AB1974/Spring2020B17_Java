@@ -23,6 +23,7 @@ public class ArraysSize {
         System.out.println(nums[1]);//index {0};
         System.out.println(nums[2]);//index {0};
 
+        System.out.println(arr1.length);
 
 
 

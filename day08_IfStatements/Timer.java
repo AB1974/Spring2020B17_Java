@@ -10,9 +10,9 @@ public class Timer {
         for (int i=minutes; i > 0 ;--i) {
             if( i< 0 )
                 break;
-            for (int z=59; z >0 ; --z) {
+            for (int z=59; z >=0 ; --z) {
                 System.out.println((i-1)+" minutes and "+z+" seconds left");
-                Thread.sleep(1000);//speed in milisecond
+                Thread.sleep(1000);//speed in millisecond
             }
         }
         System.out.println(" \n \t \t********************************************* ");

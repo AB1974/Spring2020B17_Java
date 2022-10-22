@@ -29,9 +29,3 @@ public class PalindromeTask {
         }
 
     }
-
-//adanada
-//0123456
-//for(int num=6;num>=0;num--){
-//
-//}
