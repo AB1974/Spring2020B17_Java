@@ -76,6 +76,23 @@ public class SelfStudyStream {
 
         boolean b1= pal.equalsIgnoreCase(word);
         System.out.println("b1 = " + b1);
+        System.out.println("b1 = " + b1);
+
+        //Palindrome
+        String word1 ="Adanada";
+
+        String pal1= "";
+
+        for (int i=word.length()-1; i>=0; i--){
+
+            pal+=word.charAt(i);
+
+        }
+
+        boolean b12= pal.equalsIgnoreCase(word);
+        System.out.println("b1 = " + b12);
+        System.out.println("b1 = " + b12);
+
 
 
 
